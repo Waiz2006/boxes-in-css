@@ -1,0 +1,43 @@
+/* box dimesions */
+/* div{
+    height: 300px;
+    width: 300px;
+    background-color:wheat;
+} */
+
+/* limiting width */
+/* td.description{
+    min-width: 450px;
+    max-width: 650px;
+    padding: 5px;
+    margin:0px ;
+} */
+
+/* limiting height */
+/* h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;}
+
+    h2 {
+        color: #0088dd;
+        border-bottom: 1px solid #0088dd;}
+        
+        p{
+            min-height: 100px;
+            max-height: 30px;
+            border: 1px solid red;
+        } */
+
+        /* overflow content*/
+        /* p{
+            
+            max-height: 50px;
+            border: 1px solid red;
+            overflow: scroll;
+        }  */
+
+        p{
+            border: 2px solid red;\
+            border-bottom-width: 5px;
+        }
